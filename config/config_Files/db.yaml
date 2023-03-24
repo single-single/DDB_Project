@@ -1,0 +1,7 @@
+host:       "192.168.48.254"
+port:       5433
+dbName:     "schema_2"
+dbUser:     "yugabyte"
+dbPassword: "yugabyte"
+sslMode:    "disable"
+sslRootCert: ""

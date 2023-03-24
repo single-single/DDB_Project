@@ -1,0 +1,5 @@
+nodeNum:        0
+totalNode:      5
+hasOutPutFile:  true
+outPutPath:     "./output/stdout.txt"
+isSQL:          0
